@@ -48,6 +48,3 @@ The dashboard analyzes:
 [Lifestyle](Dashboard3.png)
 ---
 
-## Author
-**Nancy Nabil**  
-_Data Analyst | Excel | Power BI | SQL | Python_
