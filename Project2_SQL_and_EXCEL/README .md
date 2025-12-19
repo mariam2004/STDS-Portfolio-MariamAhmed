@@ -44,8 +44,3 @@ The extracted data was analyzed in Excel using:
 ![Dashboard Overview](Dashboard1.png)
 ![Detailed Insights](Dashboard2.png)
 
----
-
-## Author
-**Nancy Nabil**  
-_Data Analyst | Excel | Power BI | SQL | Python_
