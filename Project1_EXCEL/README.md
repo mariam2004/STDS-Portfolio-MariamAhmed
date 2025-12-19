@@ -46,6 +46,3 @@ Pivot Tables were used to summarize and analyze:
 
 ---
 
-##  Author
-**Nancy Nabil**  
-_Data Analyst | Excel | Power BI | SQL | Python_  
